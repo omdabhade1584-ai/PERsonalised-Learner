@@ -1,5 +1,5 @@
 # PERsonalised-Learner
-HEAD
+
 🎓 Personalised Learner
 
 An AI-Based Adaptive and Personalised Learning Platform
