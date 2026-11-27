@@ -187,4 +187,3 @@ Domain: Artificial Intelligence and Education Technology
 Development Type: Collaborative Team Project
 Team Size: 2 Members
 
-⭐ Building smarter and more personalised learning experiences.
